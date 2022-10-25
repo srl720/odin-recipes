@@ -1,0 +1,1 @@
+This exercise will serve as practice for HTML and website building.
